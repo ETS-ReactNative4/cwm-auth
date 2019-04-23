@@ -32,7 +32,7 @@ class LoginForm extends Form {
       }
     }
   };
-
+ 
   render() {
     return (
       <div>
